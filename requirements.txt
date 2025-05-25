@@ -1,0 +1,6 @@
+gradio
+requests
+joblib
+numpy
+pandas
+scikit-learn
